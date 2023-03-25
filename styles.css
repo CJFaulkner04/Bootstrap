@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    border: 0;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    background-color: rgb(216, 252, 252);
+}
+section{
+    width:60%;
+    margin: auto;
+}
+article{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(216, 252, 252);
+}
+footer{
+    background-color: rgb(216, 252, 252);
+    text-align: center;
+    padding: 15px;
+}
